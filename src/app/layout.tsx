@@ -7,10 +7,10 @@ import '@/styles/tailwind.css'
 export const metadata: Metadata = {
   title: {
     template: '%s - TaxPal',
-    default: 'TaxPal - Accounting made simple for small businesses',
+    default: 'Tigris Connect - Все нейросети в одном Telegram-боте',
   },
   description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+    'Единый доступ к текстовым, графическим и видео моделям прямо в Telegram.',
 }
 
 const inter = Inter({

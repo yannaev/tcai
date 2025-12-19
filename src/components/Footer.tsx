@@ -13,7 +13,7 @@ export function Footer() {
             <Logo className="mx-auto h-10 w-auto" />
           </div>
           <nav className="mt-10 text-sm" aria-label="quick links">
-            <div className="-my-1 flex justify-center gap-x-6">
+            <div className="mx-auto flex w-fit flex-col items-center gap-y-3 sm:flex-row sm:gap-x-6">
               <NavLink href="https://disk.yandex.ru/i/2BAchvYnNgUtEA">Публичная оферта</NavLink>
               <NavLink href="https://disk.yandex.ru/i/o_yeJJxWVQHG2A">Политика конфиденциальности</NavLink>
               <NavLink href="https://disk.yandex.ru/i/yaNL82YrMVhi1g">Политика возвратов</NavLink>

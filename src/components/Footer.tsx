@@ -26,8 +26,7 @@ export function Footer() {
 
           </div>
           <p className="mt-6 text-sm text-slate-500 sm:mt-0">
-            Copyright &copy; {new Date().getFullYear()} Tigris Connect. All rights
-            reserved.
+            Copyright &copy; {new Date().getFullYear()} ИП Яннаев Александр Евгеньевич, ИНН 667114203869
           </p>
         </div>
       </Container>
